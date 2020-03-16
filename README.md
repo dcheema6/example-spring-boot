@@ -1,5 +1,3 @@
-This app is aimed to satisfy all the given requirements.
-
 # Getting Started
 
 ### Tools Required
